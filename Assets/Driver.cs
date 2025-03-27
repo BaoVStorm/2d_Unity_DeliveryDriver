@@ -27,4 +27,13 @@ public class Driver : MonoBehaviour
         
         this.transform.Translate(0, moveAmount, 0);
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+         if(collision.tag == "boostSpeed") {
+            
+            moveSpeed = 30f;
+            // this.
+        }
+    }
 }
