@@ -47,11 +47,23 @@ Người dùng có thể điều khiển xe để đi giao hàng tới nơi quy 
 
 <h3> Vật phẩm  </h3>
 
-![package](https://github.com/user-attachments/assets/47dbe550-9203-481a-ba63-2182817da2ac)
+<img src="https://github.com/user-attachments/assets/47dbe550-9203-481a-ba63-2182817da2ac" width="250px"/>
 
-![boost](https://github.com/user-attachments/assets/48af6d11-2d0f-471a-bbc8-c570494f3c16)
+<img src="https://github.com/user-attachments/assets/48af6d11-2d0f-471a-bbc8-c570494f3c16" width="250px"/>
 
-![destination](https://github.com/user-attachments/assets/f8bce975-ba87-4f44-a959-0c6cfdf0f653)
+<img src="https://github.com/user-attachments/assets/f8bce975-ba87-4f44-a959-0c6cfdf0f653" width="250px"/>
+
+<h3> Nhà  </h3>
+
+<img src="https://github.com/user-attachments/assets/2e214cf2-cd58-4161-8d05-2c766879c600" width="250px"/>
+
+<p></p>
+
+<img src="https://github.com/user-attachments/assets/0436ec17-812d-4358-9a91-4ee1714c1e9f" width="250px"/>
+
+<p></p>
+
+<img src="https://github.com/user-attachments/assets/93b3e796-f2d2-46b2-8045-8b40c5049811" width="250px"/>
 
 <h3> Môi trường  </h3>
 
