@@ -1,4 +1,4 @@
-Tựa game này không phải là dự án thật sự, chỉ là dự án demo để học Unity từ **Udemy**.
+Tựa game này là một dự án được làm trong quá trình học Unity từ **Udemy**.
 
 Khoá học trên undemy: **Complete C# Unity Game Developer 2D**
 
@@ -18,6 +18,9 @@ Người dùng có thể điều khiển xe để đi giao hàng tới nơi quy 
 
 - **Engine:** Unity
 - **Prog Lang:** C#
+
+
+<br>
 
 # 🕹️ Giao diện & GamePlay
 
