@@ -19,9 +19,6 @@ Người dùng có thể điều khiển xe để đi giao hàng tới nơi quy 
 - **Engine:** Unity
 - **Prog Lang:** C#
 
-
-<br>
-
 # 🕹️ Giao diện & GamePlay
 
 ## <p align="center">Cách Chơi</p>
